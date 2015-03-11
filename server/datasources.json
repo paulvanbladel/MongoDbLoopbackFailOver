@@ -1,0 +1,8 @@
+{
+  "db": {
+    "url": "mongodb://localhost:29001,localhost:29002/failovertest?replicaSet=replicaset",
+    "name": "db",
+    "connector": "mongodb"
+  }
+
+}
